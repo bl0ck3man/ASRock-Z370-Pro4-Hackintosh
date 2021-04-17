@@ -1,4 +1,7 @@
-## [1.0.1] - 2021-04-14
+## [1.0.2] - 2021-04-14
+
+### Added
+- Mapped intel uhd 630 ports
 
 ### Added
 - Remove disable-external-gpu flag 

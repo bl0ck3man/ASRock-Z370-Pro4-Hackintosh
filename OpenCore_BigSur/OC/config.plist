@@ -266,8 +266,52 @@
 				<data>
 				BwCbPg==
 				</data>
+				<key>device-id</key>
+				<data>
+				mz4AAA==
+				</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
+				<key>framebuffer-con0-busid</key>
+				<data>
+				BQAAAA==
+				</data>
+				<key>framebuffer-con0-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con0-type</key>
+				<data>
+				AAQAAA==
+				</data>
+				<key>framebuffer-con1-busid</key>
+				<data>
+				BAAAAA==
+				</data>
+				<key>framebuffer-con1-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con1-type</key>
+				<data>
+				AAgAAA==
+				</data>
+				<key>framebuffer-con2-busid</key>
+				<data>
+				BgAAAA==
+				</data>
+				<key>framebuffer-con2-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>framebuffer-con2-type</key>
+				<data>
+				AAgAAA==
+				</data>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				AQAAAA==
+				</data>
 				<key>model</key>
 				<string>Intel UHD Graphics 630 (Desktop)</string>
 			</dict>
@@ -984,7 +1028,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 alcid=1 igfxonln=1</string>
+				<string>keepsyms=1 debug=0x100 alcid=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
@@ -1053,7 +1097,26 @@
 		<true/>
 		<key>Generic</key>
 		<dict>
-			Please, gen your custom data
+			<key>AdviseWindows</key>
+			<false/>
+			<key>MLB</key>
+			<string>C020364014NLNV91H</string>
+			<key>MaxBIOSVersion</key>
+			<false/>
+			<key>ROM</key>
+			<data>
+			ESIzRFVm
+			</data>
+			<key>SpoofVendor</key>
+			<true/>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
+			<key>SystemProductName</key>
+			<string>iMac19,1</string>
+			<key>SystemSerialNumber</key>
+			<string>C02DV0MKJV3Q</string>
+			<key>SystemUUID</key>
+			<string>DEE493FA-CE82-4E81-83F6-2E22F202C457</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
