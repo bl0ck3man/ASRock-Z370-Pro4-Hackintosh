@@ -1,11 +1,11 @@
 # ASRock-Z370-Pro4-Hackintosh
 
-This config works under OpenCore 0.6.7 and BigSur 11.1
+This config works under OpenCore 0.6.8 and BigSur 11.1
 Also, please generate your SystemData by [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 ## BigSur 11.1 where Intel UHD drives a display
 * Bootloader: OpenCore
-* Model Identifier:	**iMac18,1** 
+* Model Identifier:	**iMac19,1** 
 * Motherboard: ASRock-Z370-Pro4
     * Audio Codec: Realtek ALC1220
     * LAN Chip: Intel I219-V
