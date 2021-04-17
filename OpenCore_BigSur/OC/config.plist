@@ -268,10 +268,6 @@
 				</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
-				<key>disable-external-gpu</key>
-				<data>
-				AQAAAA==
-				</data>
 				<key>model</key>
 				<string>Intel UHD Graphics 630 (Desktop)</string>
 			</dict>
@@ -1057,7 +1053,7 @@
 		<true/>
 		<key>Generic</key>
 		<dict>
-			Please, use your own config
+			Please, gen your custom data
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
