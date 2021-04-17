@@ -30,6 +30,14 @@
 				<key>Path</key>
 				<string>SSDT-PLUG.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-NVIDIAOFF.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-NVIDIAOFF.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -980,7 +988,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 alcid=1 -wegnoegpu igfxonln=1</string>
+				<string>keepsyms=1 debug=0x100 alcid=1 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
