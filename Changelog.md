@@ -1,3 +1,13 @@
+## [1.2.0] - 2021-09-27
+
+- Update openCore 0.6.8 -> 0.7.3
+- Added new cofig with randeon HD 7770 1gh
+
+
+### Added
+- Update readme
+
+
 ## [1.1.1] - 2021-04-17
 
 ### Added
