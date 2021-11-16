@@ -120,6 +120,17 @@
 				<key>name</key>
 				<string>Ethernet</string>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1D,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>built-in</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>pci-aspm-default</key>
+				<data>
+				AgEAAA==
+				</data>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
@@ -339,9 +350,9 @@
 			<key>ProvideCurrentCpuInfo</key>
 			<true/>
 			<key>SetApfsTrimTimeout</key>
-			<integer>-1</integer>
+			<integer>999</integer>
 			<key>ThirdPartyDrives</key>
-			<true/>
+			<false/>
 			<key>XhciPortLimit</key>
 			<false/>
 		</dict>
@@ -488,7 +499,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 alcid=1 radpg=15</string>
+				<string>keepsyms=1 debug=0x100 alcid=1 radpg=15 dart=0</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==

@@ -1,3 +1,7 @@
+## [1.2.1] - 2021-11-16
+
+- Samsung evo nvme path
+
 ## [1.2.0] - 2021-09-27
 
 - Update openCore 0.6.8 -> 0.7.3
